@@ -7,8 +7,6 @@ It showcases my education, skills, projects, and contact information — all in 
 🔗 [View Resume Online](https://clydervin027.github.io/My-Webpage/)
 
 ## 📌 Features
-- Responsive layout (mobile-friendly)
-- Downloadable resume (PDF or button, if added)
 - Clickable navigation links
 - Embedded image and contact section
 - Clean, modern design
